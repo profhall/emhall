@@ -87,7 +87,6 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -593,7 +592,7 @@ input[type="checkbox"] { display: inline; }
 /* default
 --------------------------------------------------------------- */
 .row {
-   width: 96%;
+   width: 98%;
    max-width: 1020px;
    margin: 0 auto;
 }
@@ -731,6 +730,7 @@ properly.
 	   margin-left: 0;
 	   margin-right: 0;
       padding: 0 30px;
+
    }
    .row .row { width: auto; max-width: none; margin: 0 -30px; }
 
