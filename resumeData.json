@@ -10,9 +10,9 @@
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip": "30126"
     },
     "website": "http://www.emhall.me",
     "resumedownload":"http://timbakerdev.com",
