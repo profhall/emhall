@@ -1,16 +1,14 @@
 {
   "main": {
     "name":"Em Hall",
-    "occupation":"(Your Occupation Here)",
+    "occupation":"Actress",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"head-shot.jpeg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "emsanders313@gmail.com",
-    "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
-      "city":"Atlanta",
+      "city":"Atlanta, Ga",
       "state":"Georgia",
       "zip": "30126"
     },
@@ -81,22 +79,6 @@
       {
         "name":"Flight Attendant Certificate GroupII",
         "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
